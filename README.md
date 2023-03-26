@@ -1,8 +1,8 @@
 AP5
 
-2022 UAI (Tecnología Informática)
+2020 UAI (Tecnología Informática)
 
-Analista Programador (5to Semestre)
+Analista Programador (Semestre 0 Exámenes de Ingreso)
 
 ---
 
